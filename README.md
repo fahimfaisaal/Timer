@@ -1,3 +1,5 @@
+<h1 align="center">Timer</h1>
+
 It's a simple Timer app which is build by react.
 
 ### Features
